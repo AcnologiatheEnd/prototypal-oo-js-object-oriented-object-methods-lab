@@ -21,5 +21,5 @@ BoardMember.prototype.releasePressStatement = function() {
 }
 
 BoardMember.prototype.sayHi = function() {
-  return 'No, I must disagree'
-}
+  return ``
+}.bind(this)
