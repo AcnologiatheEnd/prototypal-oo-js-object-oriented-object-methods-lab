@@ -13,7 +13,7 @@ BoardMember.prototype.approve = function() {
 }
 
 BoardMember.prototype.doCharity = function() {
-  return 'No, I must disagree'
+  return 'I like to help people.'
 }
 
 BoardMember.prototype.releasePressStatement = function() {
