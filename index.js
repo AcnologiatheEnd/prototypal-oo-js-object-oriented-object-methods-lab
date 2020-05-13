@@ -7,3 +7,19 @@ function BoardMember(name, homeState, training) {
 BoardMember.prototype.veto = function() {
   return 'No, I must disagree'
 }
+
+BoardMember.prototype.approve = function() {
+  return 'No, I must disagree'
+}
+
+BoardMember.prototype.doCharity = function() {
+  return 'No, I must disagree'
+}
+
+BoardMember.prototype.releasePressStatement = function() {
+  return 'No, I must disagree'
+}
+
+BoardMember.prototype.sayHi = function() {
+  return 'No, I must disagree'
+}
