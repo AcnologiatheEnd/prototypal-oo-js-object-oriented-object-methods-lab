@@ -9,7 +9,7 @@ BoardMember.prototype.veto = function() {
 }
 
 BoardMember.prototype.approve = function() {
-  return 'No, I must disagree'
+  return 'You can do that!'
 }
 
 BoardMember.prototype.doCharity = function() {
